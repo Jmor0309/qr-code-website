@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Custom QR Code Website</title>
+    <title>Surprise Trip!</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -46,14 +46,21 @@
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to My Custom Website!</h1>
+        <h1>Surprise!</h1>
         <p>
-            This page was created to demonstrate a QR code that opens a custom website on your device.
+            Pack your bags because we’re going on an adventure! 🛫
         </p>
         <p>
-            Feel free to explore or contact me for more information.
+            First stop: <strong>One magical night in Hawaii</strong> 🌴. Relax, unwind, and enjoy the beautiful beaches.
         </p>
-        <a href="https://example.com" target="_blank">Visit My Main Website</a>
+        <p>
+            Then, we’re heading to <strong>Tokyo for 7 amazing days</strong> 🗼. Get ready for delicious food, vibrant culture, and unforgettable experiences.
+        </p>
+        <p>
+            I can't wait to share this adventure with you. ❤️
+        </p>
+        <a href="https://www.google.com/search?q=things+to+do+in+tokyo" target="_blank">Start Planning!</a>
     </div>
 </body>
 </html>
+
